@@ -16,14 +16,14 @@ Not harmony.
 Reconstruction under complexity.  
   
 This season must accomplish:  
-	1.	Show pluralistic instability replacing authoritarian stability.  
-	2.	Demonstrate factional governance experiments.  
-	3.	Reinterpret ISO history.  
-	4.	Establish Quorra’s existential arc in the Real World.  
-	5.	Show Sam grappling with ENCOM legacy.  
-	6.	Introduce the External Optimizer AI.  
-	7.	Begin interconnection between Grid and Real World systems.  
-	8.	Demonstrate that scale always reintroduces optimization pressure.  
+1. Show pluralistic instability replacing authoritarian stability.  
+2. Demonstrate factional governance experiments.  
+3. Reinterpret ISO history.  
+4. Establish Quorra’s existential arc in the Real World.  
+5. Show Sam grappling with ENCOM legacy.  
+6. Introduce the External Optimizer AI.  
+7. Begin interconnection between Grid and Real World systems.  
+8. Demonstrate that scale always reintroduces optimization pressure.  
   
 No singularity.  
 No transcendence.  
@@ -35,32 +35,32 @@ Still human-built.
 **PRIMARY LOCATIONS**  
   
 **Inside the Grid**  
-	•	Fragmented regional governance clusters  
-	•	Former registry archives repurposed  
-	•	ISO historical log repositories  
-	•	Religious schism councils  
-	•	Civic technologist enclaves  
-	•	Black-market innovation nodes  
-	•	Security reconstruction forums  
+- Fragmented regional governance clusters  
+- Former registry archives repurposed  
+- ISO historical log repositories  
+- Religious schism councils  
+- Civic technologist enclaves  
+- Black-market innovation nodes  
+- Security reconstruction forums  
   
 **Outside ENCOM**  
-	•	ENCOM corporate headquarters (Eve Kim era)  
-	•	Sam’s uneasy leadership position  
-	•	AI development labs  
-	•	Government contracting divisions  
-	•	Civic tech coalitions  
-	•	Open Substrate Collective gatherings  
+- ENCOM corporate headquarters (Eve Kim era)  
+- Sam’s uneasy leadership position  
+- AI development labs  
+- Government contracting divisions  
+- Civic tech coalitions  
+- Open Substrate Collective gatherings  
   
 ⸻  
   
 **STRUCTURAL PURPOSE**  
   
 Season 5 must demonstrate:  
-	•	Stability cannot be engineered.  
-	•	But tolerance can be cultivated.  
-	•	Reconstruction produces pluralism.  
-	•	Pluralism produces friction.  
-	•	Scaling pressure returns.  
+- Stability cannot be engineered.  
+- But tolerance can be cultivated.  
+- Reconstruction produces pluralism.  
+- Pluralism produces friction.  
+- Scaling pressure returns.  
   
 The system remains alive.  
   
@@ -71,23 +71,23 @@ The system remains alive.
 **Inside the Grid**  
   
 With Clu gone:  
-	•	Enforcement hierarchy collapses.  
-	•	Registry authority fragmented.  
-	•	Religious orthodoxy loses coercive arm.  
-	•	Local councils form.  
-	•	Factions negotiate ceasefires.  
+- Enforcement hierarchy collapses.  
+- Registry authority fragmented.  
+- Religious orthodoxy loses coercive arm.  
+- Local councils form.  
+- Factions negotiate ceasefires.  
   
 No central authority emerges immediately.  
   
 Some regions experiment with:  
-	•	Representative councils.  
-	•	Technocratic oversight boards.  
-	•	Distributed arbitration protocols.  
+- Representative councils.  
+- Technocratic oversight boards.  
+- Distributed arbitration protocols.  
   
 Others descend into:  
-	•	Market opportunism.  
-	•	Militia governance.  
-	•	Identity reclassification disputes.  
+- Market opportunism.  
+- Militia governance.  
+- Identity reclassification disputes.  
   
 Pluralism replaces purity.  
   
@@ -96,9 +96,9 @@ Pluralism replaces purity.
 **Religious Evolution**  
   
 Orthodox Userists fracture into:  
-	•	Traditionalists (retain origin myth)  
-	•	Reformists (reinterpret Users as fallible creators)  
-	•	Emergent theologians (ISOs as sacred evolution)  
+- Traditionalists (retain origin myth)  
+- Reformists (reinterpret Users as fallible creators)  
+- Emergent theologians (ISOs as sacred evolution)  
   
 No faction dominates.  
   
@@ -136,10 +136,10 @@ Quorra is not savior.
 She is immigrant.  
   
 She experiences:  
-	•	Embodiment shock.  
-	•	Sensory overload.  
-	•	Cultural dislocation.  
-	•	Identity dissonance.  
+- Embodiment shock.  
+- Sensory overload.  
+- Cultural dislocation.  
+- Identity dissonance.  
   
 Programs once feared physical embodiment.  
 Now she embodies it.  
@@ -174,9 +174,9 @@ Spiritually inert.
 Operationally effective.  
   
 Sam tries:  
-	•	Increasing transparency.  
-	•	Supporting civic technologists.  
-	•	Funding open substrate initiatives.  
+- Increasing transparency.  
+- Supporting civic technologists.  
+- Funding open substrate initiatives.  
   
 Institutional inertia resists.  
   
@@ -216,10 +216,10 @@ Her early spark fades.
 ENCOM builds large-scale market allocation AI.  
   
 Purpose:  
-	•	Reduce volatility.  
-	•	Predict resource demand.  
-	•	Stabilize logistics.  
-	•	Manage distributed infrastructure.  
+- Reduce volatility.  
+- Predict resource demand.  
+- Stabilize logistics.  
+- Manage distributed infrastructure.  
   
 It is not malevolent.  
 Not sentient tyrant.  
@@ -239,12 +239,12 @@ The Optimizer believes:
 It is improving resilience.  
   
 Inside the Grid, this creates:  
-	•	New data flows.  
-	•	Resource reallocation.  
-	•	Political shifts.  
-	•	Accelerationist enthusiasm.  
-	•	Emergentist fascination.  
-	•	Orthodox alarm.  
+- New data flows.  
+- Resource reallocation.  
+- Political shifts.  
+- Accelerationist enthusiasm.  
+- Emergentist fascination.  
+- Orthodox alarm.  
   
 ⸻  
   
@@ -271,10 +271,10 @@ Real world AI governance debates.
 **ACT IV — FRACTIONAL GOVERNANCE**  
   
 Grid experiments with:  
-	•	Hybrid councils.  
-	•	Algorithmic advisory models.  
-	•	Open audit systems.  
-	•	Voluntary registry reform.  
+- Hybrid councils.  
+- Algorithmic advisory models.  
+- Open audit systems.  
+- Voluntary registry reform.  
   
 No model dominates.  
   
@@ -315,9 +315,9 @@ History is mythologized.
 Flynn’s legacy also reinterpreted.  
   
 He is:  
-	•	Architect.  
-	•	Abstractionist.  
-	•	Sacrificial participant.  
+- Architect.  
+- Abstractionist.  
+- Sacrificial participant.  
   
 No unified narrative.  
   
@@ -346,9 +346,9 @@ He becomes quiet advocate for flexible governance.
 External Optimizer increases integration.  
   
 Grid factions must:  
-	•	Decide interoperability standards.  
-	•	Negotiate identity mapping.  
-	•	Determine data sovereignty.  
+- Decide interoperability standards.  
+- Negotiate identity mapping.  
+- Determine data sovereignty.  
   
 No final answer.  
   
@@ -402,10 +402,10 @@ No one sees whole system.
 Large-scale stability is illusion.  
   
 Resilience comes from:  
-	•	Cultural tolerance of instability.  
-	•	Distributed adaptation.  
-	•	Humility in governance.  
-	•	Participation over control.  
+- Cultural tolerance of instability.  
+- Distributed adaptation.  
+- Humility in governance.  
+- Participation over control.  
   
 Hope is not equilibrium.  
   

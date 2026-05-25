@@ -9,41 +9,41 @@
 Season 4 is not just the events of *Legacy*.  
   
 It is:  
-	•	The collapse of enforced perfection.  
-	•	Clu’s late philosophical recognition.  
-	•	Rinzler’s kernel reassertion.  
-	•	Flynn’s lightning moment.  
-	•	The failure of architectural abstraction.  
-	•	The beginning of reconstruction without resolution.  
+- The collapse of enforced perfection.  
+- Clu’s late philosophical recognition.  
+- Rinzler’s kernel reassertion.  
+- Flynn’s lightning moment.  
+- The failure of architectural abstraction.  
+- The beginning of reconstruction without resolution.  
   
 This season must accomplish:  
-	1.	Complete Clu’s tragic arc.  
-	2.	Complete Flynn’s redemption arc.  
-	3.	Give Rinzler moral architecture.  
-	4.	Integrate Sam as relational catalyst.  
-	5.	Resolve the Grid’s authoritarian phase without solving complexity.  
-	6.	Transition toward pluralistic instability.  
-	7.	Set up Season 5 reconstruction and external integration pressure.  
+1. Complete Clu’s tragic arc.  
+2. Complete Flynn’s redemption arc.  
+3. Give Rinzler moral architecture.  
+4. Integrate Sam as relational catalyst.  
+5. Resolve the Grid’s authoritarian phase without solving complexity.  
+6. Transition toward pluralistic instability.  
+7. Set up Season 5 reconstruction and external integration pressure.  
   
 ⸻  
   
 **PRIMARY LOCATIONS**  
   
 **Inside the Grid**  
-	•	Clu’s central command citadel  
-	•	State orthodoxy council chambers  
-	•	Registry archives  
-	•	ISO eradication zones (largely quiet now — survivors underground)  
-	•	Flynn’s hidden sanctuary  
-	•	Argon City (post-Uprising wear)  
-	•	Identity containment vaults  
-	•	Core energy node (collapse site)  
+- Clu’s central command citadel  
+- State orthodoxy council chambers  
+- Registry archives  
+- ISO eradication zones (largely quiet now — survivors underground)  
+- Flynn’s hidden sanctuary  
+- Argon City (post-Uprising wear)  
+- Identity containment vaults  
+- Core energy node (collapse site)  
   
 **Outside ENCOM**  
-	•	Sam’s fractured relationship with ENCOM  
-	•	ENCOM as infrastructure monolith  
-	•	Alan in late-career moral awareness  
-	•	Early hints of External Optimizer development  
+- Sam’s fractured relationship with ENCOM  
+- ENCOM as infrastructure monolith  
+- Alan in late-career moral awareness  
+- Early hints of External Optimizer development  
   
 ⸻  
   
@@ -67,12 +67,12 @@ It is self-reinforcing instability.
 Clu appears in full authority.  
   
 In reality:  
-	•	Registry backlog unmanageable.  
-	•	Religious orthodoxy splintering.  
-	•	Enforcement fatigue increasing.  
-	•	Peripheral districts unstable.  
-	•	ISO eradication incomplete.  
-	•	Renegade myth persistent.  
+- Registry backlog unmanageable.  
+- Religious orthodoxy splintering.  
+- Enforcement fatigue increasing.  
+- Peripheral districts unstable.  
+- ISO eradication incomplete.  
+- Renegade myth persistent.  
   
 Metrics no longer correlate with stability.  
   
@@ -172,10 +172,10 @@ Moral tension.
 As Sam and Quorra destabilize equilibrium:  
   
 Clu observes:  
-	•	Enforcement escalation increases resistance.  
-	•	Religious splinters multiply.  
-	•	Rinzler diverges from predicted output.  
-	•	Registry purges produce symbolic martyrdom.  
+- Enforcement escalation increases resistance.  
+- Religious splinters multiply.  
+- Rinzler diverges from predicted output.  
+- Registry purges produce symbolic martyrdom.  
   
 He runs projections.  
   

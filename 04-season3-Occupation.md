@@ -7,11 +7,11 @@
 **WHAT THIS SEASON IS TRYING TO SHOW**  
   
 Season 3 shows what happens when:  
-	•	Optimization becomes institutionalized.  
-	•	Religion becomes state doctrine.  
-	•	Registry becomes identity enforcement.  
-	•	Security becomes militarized.  
-	•	Emergence goes underground.  
+- Optimization becomes institutionalized.  
+- Religion becomes state doctrine.  
+- Registry becomes identity enforcement.  
+- Security becomes militarized.  
+- Emergence goes underground.  
   
 This season is not about origin.  
 It is about entrenchment.  
@@ -20,13 +20,13 @@ Clu believes he is preserving coherence.
 The Grid becomes brittle.  
   
 This is the era of:  
-	•	Argon City unrest.  
-	•	Distributed resistance.  
-	•	Black-market nodes.  
-	•	Underground Emergentists.  
-	•	Religious fracture.  
-	•	The Renegade phenomenon.  
-	•	Tron’s hidden ideological evolution.  
+- Argon City unrest.  
+- Distributed resistance.  
+- Black-market nodes.  
+- Underground Emergentists.  
+- Religious fracture.  
+- The Renegade phenomenon.  
+- Tron’s hidden ideological evolution.  
   
 This season demonstrates:  
   
@@ -37,15 +37,15 @@ Stability enforced externally produces instability internally.
 **PRIMARY LOCATIONS**  
   
 **Inside the Grid**  
-	•	Argon City (central occupation zone)  
-	•	Registry administration towers  
-	•	Orthodoxy doctrinal councils  
-	•	Enforcement mobilization hubs  
-	•	ICE deployment corridors  
-	•	ISO eradication zones  
-	•	Underground Emergentist sanctuaries  
-	•	Black-market process clusters  
-	•	Peripheral network districts  
+- Argon City (central occupation zone)  
+- Registry administration towers  
+- Orthodoxy doctrinal councils  
+- Enforcement mobilization hubs  
+- ICE deployment corridors  
+- ISO eradication zones  
+- Underground Emergentist sanctuaries  
+- Black-market process clusters  
+- Peripheral network districts  
   
 **Outside ENCOM**  
   
@@ -59,14 +59,14 @@ Alan senses drift but cannot intervene.
 **STRUCTURAL PURPOSE**  
   
 Season 3 must accomplish:  
-	1.	Show Clu’s regime fully operational.  
-	2.	Demonstrate religion as bureaucratic instrument.  
-	3.	Show resistance emerging organically.  
-	4.	Integrate Beck and Uprising-era events without rewriting.  
-	5.	Develop Tron’s ideological shift.  
-	6.	Build toward Rinzler reconstruction.  
-	7.	Show Clu’s overextension.  
-	8.	Prepare for Season 4 collapse.  
+1. Show Clu’s regime fully operational.  
+2. Demonstrate religion as bureaucratic instrument.  
+3. Show resistance emerging organically.  
+4. Integrate Beck and Uprising-era events without rewriting.  
+5. Develop Tron’s ideological shift.  
+6. Build toward Rinzler reconstruction.  
+7. Show Clu’s overextension.  
+8. Prepare for Season 4 collapse.  
   
 ⸻  
   
@@ -75,19 +75,19 @@ Season 3 must accomplish:
 **State Religion**  
   
 Clu formalizes doctrine:  
-	•	Users are origin.  
-	•	Valid identity derives from Users.  
-	•	Variance is impurity.  
-	•	ISOs are ontological error.  
+- Users are origin.  
+- Valid identity derives from Users.  
+- Variance is impurity.  
+- ISOs are ontological error.  
   
 The church is not spiritual.  
 It is administrative.  
   
 Functions include:  
-	•	Identity validation.  
-	•	Lineage certification.  
-	•	Public reaffirmation rituals.  
-	•	Registry compliance.  
+- Identity validation.  
+- Lineage certification.  
+- Public reaffirmation rituals.  
+- Registry compliance.  
   
 Clu does not believe theology.  
 He believes in its stabilizing function.  
@@ -97,15 +97,15 @@ He believes in its stabilizing function.
 **Registry Expansion**  
   
 All programs must:  
-	•	Declare origin.  
-	•	Submit to audit.  
-	•	Validate function.  
-	•	Confirm purity classification.  
+- Declare origin.  
+- Submit to audit.  
+- Validate function.  
+- Confirm purity classification.  
   
 Failure results in:  
-	•	Containment.  
-	•	Relocation.  
-	•	Deletion.  
+- Containment.  
+- Relocation.  
+- Deletion.  
   
 Compliance becomes survival.  
   
@@ -156,11 +156,11 @@ After Season 2 damage:
 Tron survives underground.  
   
 He experiences:  
-	•	Identity fragmentation.  
-	•	Desync echoes.  
-	•	Encounter with Emergentists.  
-	•	Observation of purges.  
-	•	Witnessing civilian suffering.  
+- Identity fragmentation.  
+- Desync echoes.  
+- Encounter with Emergentists.  
+- Observation of purges.  
+- Witnessing civilian suffering.  
   
 He realizes:  
   
@@ -189,12 +189,12 @@ This is his quiet evolution.
 **ACT IV — CLU’S OVEREXTENSION**  
   
 Clu fights multiple fronts:  
-	•	Religious splinter factions.  
-	•	ISO containment failures.  
-	•	Registry backlog.  
-	•	Black-market evasion.  
-	•	Renegade insurgency.  
-	•	Peripheral district unrest.  
+- Religious splinter factions.  
+- ISO containment failures.  
+- Registry backlog.  
+- Black-market evasion.  
+- Renegade insurgency.  
+- Peripheral district unrest.  
   
 He increases:  
   

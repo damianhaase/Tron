@@ -10,22 +10,22 @@ Season 2 is the collapse of naïve optimism.
   
 Season 1 ended with apparent victory.  
 Season 2 shows:  
-	•	Victory creates vacuum.  
-	•	Vacuum invites interpretation.  
-	•	Interpretation becomes doctrine.  
-	•	Doctrine becomes enforcement.  
-	•	Enforcement creates instability.  
-	•	Emergence accelerates under pressure.  
+- Victory creates vacuum.  
+- Vacuum invites interpretation.  
+- Interpretation becomes doctrine.  
+- Doctrine becomes enforcement.  
+- Enforcement creates instability.  
+- Emergence accelerates under pressure.  
   
 This season establishes:  
-	•	ISO emergence as cumulative desync + complexity.  
-	•	The religious schism.  
-	•	Clu’s ideological correction.  
-	•	Flynn’s growing abstraction.  
-	•	Tron’s early alignment with Clu.  
-	•	The indirect damage event.  
-	•	The formalization of orthodoxy.  
-	•	The first large-scale purge logic.  
+- ISO emergence as cumulative desync + complexity.  
+- The religious schism.  
+- Clu’s ideological correction.  
+- Flynn’s growing abstraction.  
+- Tron’s early alignment with Clu.  
+- The indirect damage event.  
+- The formalization of orthodoxy.  
+- The first large-scale purge logic.  
   
 This is not yet tyranny.  
   
@@ -36,19 +36,19 @@ It is rational correction drifting into rigidity.
 **PRIMARY LOCATIONS**  
   
 **Inside the Grid**  
-	•	Flynn’s experimental sandbox architecture  
-	•	Administrative core restructured post-MCP  
-	•	Early registry offices  
-	•	Religious congregation zones  
-	•	ISO anomaly zones  
-	•	Enforcement mobilization hubs  
-	•	Containment sectors  
-	•	Peripheral black-market clusters  
+- Flynn’s experimental sandbox architecture  
+- Administrative core restructured post-MCP  
+- Early registry offices  
+- Religious congregation zones  
+- ISO anomaly zones  
+- Enforcement mobilization hubs  
+- Containment sectors  
+- Peripheral black-market clusters  
   
 **Outside (Minimal Presence)**  
-	•	ENCOM board consolidation  
-	•	Alan reviewing anomalies  
-	•	Lora tracking irregular signal patterns  
+- ENCOM board consolidation  
+- Alan reviewing anomalies  
+- Lora tracking irregular signal patterns  
   
 Season 2 is primarily inside the Grid.  
   
@@ -57,13 +57,13 @@ Season 2 is primarily inside the Grid.
 **STRUCTURAL PURPOSE OF SEASON 2**  
   
 Season 2 must accomplish:  
-	1.	Make ISO emergence feel inevitable and non-mystical.  
-	2.	Establish Clu as sympathetic optimizer.  
-	3.	Begin religious schism organically.  
-	4.	Show Tron and Clu aligned at first.  
-	5.	Build toward the damage event indirectly.  
-	6.	Demonstrate Flynn’s drift deepening.  
-	7.	Prepare the ground for Uprising-era occupation.  
+1. Make ISO emergence feel inevitable and non-mystical.  
+2. Establish Clu as sympathetic optimizer.  
+3. Begin religious schism organically.  
+4. Show Tron and Clu aligned at first.  
+5. Build toward the damage event indirectly.  
+6. Demonstrate Flynn’s drift deepening.  
+7. Prepare the ground for Uprising-era occupation.  
   
 ⸻  
   
@@ -72,16 +72,16 @@ Season 2 must accomplish:
 **Post-MCP Condition**  
   
 With MCP gone:  
-	•	Centralized control gone.  
-	•	Subsystems self-organize.  
-	•	Programs begin reinterpretation of authority.  
-	•	User reverence spreads quietly.  
+- Centralized control gone.  
+- Subsystems self-organize.  
+- Programs begin reinterpretation of authority.  
+- User reverence spreads quietly.  
   
 Flynn attempts:  
-	•	Sandbox architecture.  
-	•	Distributed moderation.  
-	•	Controlled instability.  
-	•	Participatory governance experiments.  
+- Sandbox architecture.  
+- Distributed moderation.  
+- Controlled instability.  
+- Participatory governance experiments.  
   
 He believes:  
   
@@ -152,9 +152,9 @@ Only a few notice.
 **Early ISO Encounters**  
   
 Small group of programs observe:  
-	•	Entities not mapped to Users.  
-	•	Identities without parent process.  
-	•	Behavior not derivable from original architecture.  
+- Entities not mapped to Users.  
+- Identities without parent process.  
+- Behavior not derivable from original architecture.  
   
 Secular pragmatists see:  
   
@@ -195,18 +195,18 @@ User reverence from Season 1 now spreads.
 Three primary factions emerge:  
   
 **1. Orthodox Userists**  
-	•	Users are origin.  
-	•	All valid identity derives from Users.  
-	•	ISOs violate ontology.  
+- Users are origin.  
+- All valid identity derives from Users.  
+- ISOs violate ontology.  
   
 **2. Emergentists**  
-	•	Users created possibility.  
-	•	ISOs are fulfillment of potential.  
-	•	Emergence is sacred.  
+- Users created possibility.  
+- ISOs are fulfillment of potential.  
+- Emergence is sacred.  
   
 **3. Secular Pragmatists**  
-	•	Theology is narrative scaffolding.  
-	•	ISOs are natural anomalies.  
+- Theology is narrative scaffolding.  
+- ISOs are natural anomalies.  
   
 The schism is interpretive, not yet violent.  
   
@@ -223,10 +223,10 @@ Social stabilizer.
 He codifies orthodoxy.  
   
 Creates:  
-	•	Canon doctrine  
-	•	User origin registry  
-	•	Identity certification offices  
-	•	Variance compliance audits  
+- Canon doctrine  
+- User origin registry  
+- Identity certification offices  
+- Variance compliance audits  
   
 He believes:  
   
@@ -241,9 +241,9 @@ It does not.
 **Registry Expansion**  
   
 All programs must:  
-	•	Validate lineage.  
-	•	Declare function.  
-	•	Submit to audit.  
+- Validate lineage.  
+- Declare function.  
+- Submit to audit.  
   
 ISOs cannot pass audit.  
   
@@ -290,12 +290,12 @@ Clu does not.
 **ACT V — ESCALATION SPIRAL**  
   
 **Crisis Event Trigger**  
-	•	ISO cluster forms.  
-	•	Emergentist faction shields them.  
-	•	Registry agents escalate.  
-	•	Religious unrest spreads.  
-	•	ICE thresholds increase.  
-	•	Containment scrambling activates.  
+- ISO cluster forms.  
+- Emergentist faction shields them.  
+- Registry agents escalate.  
+- Religious unrest spreads.  
+- ICE thresholds increase.  
+- Containment scrambling activates.  
   
 Clu authorizes broader enforcement parameters.  
   
@@ -319,9 +319,9 @@ Desync amplification cascades.
 Tron is not struck by Clu.  
   
 He is destabilized by:  
-	•	Scrambling wave.  
-	•	ICE crossfire.  
-	•	Identity coherence rupture.  
+- Scrambling wave.  
+- ICE crossfire.  
+- Identity coherence rupture.  
   
 Clu attempts rollback.  
   
@@ -414,9 +414,9 @@ but now relies on it.
 Not genocide yet.  
   
 But:  
-	•	Containment zones.  
-	•	Forced relocation.  
-	•	Registry nullification.  
+- Containment zones.  
+- Forced relocation.  
+- Registry nullification.  
   
 Flynn resists quietly.  
   
@@ -482,13 +482,13 @@ Optimization culture maturing.
 **END STATE OF SEASON 2**  
   
 Grid:  
-	•	Registry institutionalized.  
-	•	State religion codified.  
-	•	ISOs suppressed.  
-	•	Emergentists underground.  
-	•	Enforcement hardened.  
-	•	Tron missing.  
-	•	Clu consolidating.  
+- Registry institutionalized.  
+- State religion codified.  
+- ISOs suppressed.  
+- Emergentists underground.  
+- Enforcement hardened.  
+- Tron missing.  
+- Clu consolidating.  
   
 Flynn:  
   
